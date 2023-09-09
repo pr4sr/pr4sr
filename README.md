@@ -1,4 +1,4 @@
-
+# hi 👋
 **Character Specs:**
 ```diff
 +    +1 lua
