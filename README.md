@@ -12,3 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4sr" />
 </a>
 
+<a href="https://github.com/pr4sr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta&layout=compact" />
+</a>
+
