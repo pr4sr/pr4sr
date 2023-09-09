@@ -9,6 +9,6 @@
 
 
 <a href="https://github.com/pr4sr">
-  <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pr4sr&theme=dark)](https://git.io/streak-stats)" />
+  <img align="center" src="[![pr4sr stats](https://github-readme-stats.vercel.app/api?username=pr4sr)](https://github.com/pr4sr/github-readme-stats)" />
 </a>
 
