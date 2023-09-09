@@ -13,6 +13,6 @@
 </a>
 
 <a href="https://github.com/pr4sr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4srmeta&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4sr&layout=compact" />
 </a>
 
