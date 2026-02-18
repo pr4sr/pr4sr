@@ -9,10 +9,7 @@
 
 
 <a href="https://github.com/pr4sr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4sr" />
+  <img align="https://github-stats.omsimos.com/user/pr4sr?theme=default&hide_border=true&count_private=true" />
 </a>
 
-<a href="https://github.com/pr4sr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4sr&layout=compact" />
-</a>
 
